@@ -1,6 +1,6 @@
 /*
 %--------------------------------------------------------------------------
-% C language practice 1 (basic)
+% C language practice 1 (hard)
 % Let's start the code :)
 %
 % Developed by Heo Junyeong Heo
